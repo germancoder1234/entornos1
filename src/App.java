@@ -1,8 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
-        System.out.println("hola");
-        System.out.println("holhola");
-        System.out.println("erewreri jguherw9");
+        //german
     }
 }
